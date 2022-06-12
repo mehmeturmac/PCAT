@@ -1,0 +1,24 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehmeturmac/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Mehmet Urmaç",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehmeturmac/PCAT/issues"
+  },
+  "homepage": "https://github.com/mehmeturmac/PCAT#readme"
+}
